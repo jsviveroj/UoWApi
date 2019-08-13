@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Data.dll
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Data.dll.config
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\DELL\source\repos\UowAPI\Business\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\DELL\source\repos\UowAPI\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\UowAPI\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UowAPI\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UowAPI\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UowAPI\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\DELL\source\repos\UowAPI\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\DELL\source\repos\UowAPI\Business\obj\Debug\netstandard2.0\Business.pdb
