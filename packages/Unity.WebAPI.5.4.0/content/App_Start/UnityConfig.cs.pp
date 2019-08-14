@@ -1,6 +1,6 @@
-﻿using System.Web.Mvc;
+﻿using System.Web.Http;
 using Unity;
-using Unity.Mvc5;
+using Unity.WebApi;
 
 namespace $rootnamespace$
 {
@@ -15,7 +15,7 @@ namespace $rootnamespace$
             
             // e.g. container.RegisterType<ITestService, TestService>();
             
-            DependencyResolver.SetResolver(new UnityDependencyResolver(container));
+            GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Web.Http;
 
 namespace UowAPI.Controllers
 {
-
+    [RoutePrefix("api/Product")]
     public class ProductController : ApiController
     {
 
@@ -17,7 +17,7 @@ namespace UowAPI.Controllers
 
         [HttpGet]
         [Route("GetAllProducts")]
-        public IHttpActionResult GetAllProducts() {
+        public IHttpActionResult Index() {
             var productList = _productService.GetAllProducts();
             return Ok(productList);
         }

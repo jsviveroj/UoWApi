@@ -2,9 +2,9 @@ using Business;
 using Business.Interface;
 using Data.Infrastructure;
 using Data.Infrastructure.Contract;
-using System.Web.Mvc;
+using System.Web.Http;
 using Unity;
-using Unity.Mvc5;
+using Unity.WebApi;
 
 namespace UowAPI
 {
@@ -14,13 +14,16 @@ namespace UowAPI
         {
 			var container = new UnityContainer();
 
-            // e.g. container.RegisterType<ITestService, TestService>();
+            // register all your components with the container here
+            // it is NOT necessary to register your controllers
 
-            container.RegisterType<IUnitOfWork, UnitOfWork>();
+            // e.g. container.RegisterType<ITestService, TestService>();
 
             container.RegisterType<IProductBusiness, ProductBusiness>();
 
-            DependencyResolver.SetResolver(new UnityDependencyResolver(container));
+            container.RegisterType<IUnitOfWork, UnitOfWork>();
+
+            GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }
     }
 }

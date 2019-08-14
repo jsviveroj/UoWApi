@@ -9,3 +9,14 @@ C:\Users\DELL\source\repos\UowAPI\Data\obj\Debug\Data.csproj.CoreCompileInputs.c
 C:\Users\DELL\source\repos\UowAPI\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\DELL\source\repos\UowAPI\Data\obj\Debug\Data.dll
 C:\Users\DELL\source\repos\UowAPI\Data\obj\Debug\Data.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\bin\Debug\Data.dll.config
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\bin\Debug\Data.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\bin\Debug\Data.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\bin\Debug\EntityFramework.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\bin\Debug\EntityFramework.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.pdb

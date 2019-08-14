@@ -8,6 +8,6 @@
     <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
   </EntityType>
   <EntityContainer Name="UowTestEntities" annotation:LazyLoadingEnabled="true">
-    <EntitySet Name="Product" EntityType="Self.Product" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
   </EntityContainer>
 </Schema>

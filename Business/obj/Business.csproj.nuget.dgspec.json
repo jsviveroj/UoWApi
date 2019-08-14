@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\UowAPI\\Business\\Business.csproj": {}
+    "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\UowAPI\\Business\\Business.csproj": {
+    "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Business\\obj\\",
+        "projectPath": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\jsvj9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jsvj9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\UowAPI\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Data\\Data.csproj"
+              "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Data\\Data.csproj"
               },
-              "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -63,31 +63,31 @@
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\UowAPI\\Data\\Data.csproj": {
+    "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Data\\Data.csproj"
+        "projectPath": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Data\\Data.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\jsvj9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jsvj9\\Desktop\\UoW Api\\UoWApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jsvj9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
