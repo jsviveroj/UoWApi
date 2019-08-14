@@ -1,5 +1,7 @@
 using Business;
 using Business.Interface;
+using Data;
+using Data.Contracts;
 using Data.Infrastructure;
 using Data.Infrastructure.Contract;
 using System.Web.Http;
@@ -14,10 +16,11 @@ namespace UowAPI
         {
 			var container = new UnityContainer();
 
-            // register all your components with the container here
             // it is NOT necessary to register your controllers
 
-            // e.g. container.RegisterType<ITestService, TestService>();
+            container.RegisterType<IRepositoryBaseFactory, RepositoryBaseFactory>();
+
+            container.RegisterType<IBusinessFactory,BusinessFactory>();
 
             container.RegisterType<IProductBusiness, ProductBusiness>();
 

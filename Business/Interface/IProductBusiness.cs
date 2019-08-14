@@ -5,7 +5,7 @@ using System.Net.Http;
 
 namespace Business.Interface
 {
-    public interface IProductBusiness
+    public interface IProductBusiness : IBaseBusinessFactory
     {
         List<ProductModel> GetAllProducts();
         Product CreateProduct(ProductModel product);

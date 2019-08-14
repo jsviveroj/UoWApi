@@ -5,21 +5,23 @@ using Domain;
 
 namespace UowAPI.Controllers
 {
+    [AllowAnonymous]
     [RoutePrefix("api/Product")]
     public class ProductController : ApiController
     {
 
-        private readonly IProductBusiness _productService;
+        private readonly IBusinessFactory _businessFactory;
 
-        public ProductController(IProductBusiness productService)
+        public ProductController(IBusinessFactory businessFactory)
         {
-            _productService = productService;
+            _businessFactory = businessFactory;
         }
 
         [HttpGet]
         [Route("GetAllProducts")]
         public IHttpActionResult Index() {
-            var productList = _productService.GetAllProducts();
+            var productService = _businessFactory.GetBusinessClass<IProductBusiness>();
+            var productList = productService.GetAllProducts();
             return Ok(productList);
         }
 
@@ -27,7 +29,8 @@ namespace UowAPI.Controllers
         [Route("Create")]
         public IHttpActionResult Create(ProductModel productModel)
         {
-            var resultProduct = _productService.CreateProduct(productModel);
+            var productService = _businessFactory.GetBusinessClass<IProductBusiness>();
+            var resultProduct = productService.CreateProduct(productModel);
             return Ok(resultProduct);
         }
     }
