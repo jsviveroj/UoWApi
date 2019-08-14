@@ -4,6 +4,9 @@ using Data.Repositories;
 using Domain;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
+using Business.Mappings;
+using Data.Entities;
 
 namespace Business
 {
@@ -17,6 +20,15 @@ namespace Business
             _unitOfWork = unitOfWork;
             productRepository = new ProductRepository(unitOfWork);
         }
+
+        public Product CreateProduct(ProductModel productModel)
+        {
+            ProductMapping productMapping = new ProductMapping();
+            Product product = productMapping.CreateMapping(productModel);
+            Product resultProduct = productRepository.Insert(product);
+            return resultProduct;
+        }
+
         public List<ProductModel> GetAllProducts()
         {
             List<ProductModel> list = productRepository.GetAll().Select( p =>  new ProductModel { Name = p.Name, ProductId = p.ProductId }).ToList();

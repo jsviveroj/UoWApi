@@ -20,3 +20,4 @@ C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.csproj.CoreCompileInpu
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.dll
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.csprojAssemblyReference.cache

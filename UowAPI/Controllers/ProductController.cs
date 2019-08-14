@@ -1,6 +1,7 @@
 ﻿using Business;
 using Business.Interface;
 using System.Web.Http;
+using Domain;
 
 namespace UowAPI.Controllers
 {
@@ -20,6 +21,14 @@ namespace UowAPI.Controllers
         public IHttpActionResult Index() {
             var productList = _productService.GetAllProducts();
             return Ok(productList);
+        }
+
+        [HttpPost]
+        [Route("Create")]
+        public IHttpActionResult Create(ProductModel productModel)
+        {
+            var resultProduct = _productService.CreateProduct(productModel);
+            return Ok(resultProduct);
         }
     }
 }
