@@ -1,4 +1,5 @@
 ﻿using DataContracts.Infrastructure;
+using DomainContracts.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -7,7 +8,7 @@ using System.Linq.Expressions;
 
 namespace Data.Infrastructure
 {
-    public class BaseRepository <T> : IBaseRepository<T> where T: class
+    public class BaseRepository <T> : IBaseRepository<T> where T : Entity, new()
     {
         private readonly IUnitOfWork _unitOfWork;
         internal DbSet<T> dbSet;

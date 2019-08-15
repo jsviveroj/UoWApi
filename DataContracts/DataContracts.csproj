@@ -59,6 +59,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DomainContracts\DomainContracts.csproj">
+      <Project>{0A16CB2F-862D-4803-A0B2-CB0749924FAD}</Project>
+      <Name>DomainContracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{43DCA136-A60D-43EB-A0B6-F35392E82115}</Project>
       <Name>Domain</Name>

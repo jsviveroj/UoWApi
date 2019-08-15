@@ -160,7 +160,8 @@
         "type": "project",
         "dependencies": {
           "DataContracts": "1.0.0",
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "DomainContracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Data.dll": {}
@@ -172,7 +173,8 @@
       "DataContracts/1.0.0": {
         "type": "project",
         "dependencies": {
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "DomainContracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DataContracts.dll": {}

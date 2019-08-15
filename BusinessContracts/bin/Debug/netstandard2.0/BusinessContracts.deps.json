@@ -121,6 +121,7 @@
         "dependencies": {
           "DataContracts": "1.0.0",
           "Domain": "1.0.0",
+          "DomainContracts": "1.0.0",
           "Unity.Abstractions": "5.11.1.0",
           "EntityFramework": "6.0.0.0",
           "System.Configuration": "4.0.0.0",
@@ -132,7 +133,8 @@
       },
       "DataContracts/1.0.0": {
         "dependencies": {
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "DomainContracts": "1.0.0"
         },
         "runtime": {
           "DataContracts.dll": {}

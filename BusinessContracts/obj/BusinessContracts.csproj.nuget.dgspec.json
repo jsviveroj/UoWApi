@@ -72,6 +72,9 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
+              "C:\\Users\\DELL\\source\\repos\\UowAPI\\DomainContracts\\DomainContracts.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\DomainContracts\\DomainContracts.csproj"
+              },
               "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj"
               }
@@ -94,6 +97,9 @@
             "projectReferences": {
               "C:\\Users\\DELL\\source\\repos\\UowAPI\\DataContracts\\DataContracts.csproj": {
                 "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\DataContracts\\DataContracts.csproj"
+              },
+              "C:\\Users\\DELL\\source\\repos\\UowAPI\\DomainContracts\\DomainContracts.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\DomainContracts\\DomainContracts.csproj"
               },
               "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Domain\\Domain.csproj"

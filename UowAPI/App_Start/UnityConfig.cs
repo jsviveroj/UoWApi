@@ -2,6 +2,7 @@ using Business;
 using BusinessContracts.Contracts;
 using Data;
 using Data.Infrastructure;
+using Data.Repositories;
 using DataContracts.Contracts;
 using DataContracts.Infrastructure;
 using System.Web.Http;
@@ -23,6 +24,8 @@ namespace UowAPI
             container.RegisterType<IBusinessFactory,BusinessFactory>();
 
             container.RegisterType<IProductBusiness, ProductBusiness>();
+
+            container.RegisterType<IProductRepository, ProductRepository>();
 
             container.RegisterType<IUnitOfWork, UnitOfWork>();
 

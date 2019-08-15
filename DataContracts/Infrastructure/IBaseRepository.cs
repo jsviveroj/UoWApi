@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DomainContracts.Contracts;
+using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 
@@ -9,6 +10,7 @@ namespace DataContracts.Infrastructure
     }
 
     public interface IBaseRepository<T> : IBaseRepository
+        where T : Entity, new()
     {
         /// <summary>
         /// Retrieve a single item by it's primary key or return null if not found
