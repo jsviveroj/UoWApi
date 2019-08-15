@@ -160,7 +160,9 @@ C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Antlr3.Runtime.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\AutoMapper.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Business.dll
+C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\BusinessContracts.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Data.dll
+C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\DataContracts.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Domain.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\EntityFramework.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\EntityFramework.SqlServer.dll
@@ -182,7 +184,11 @@ C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Unity.Abstractions.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Unity.Container.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Unity.WebApi.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\WebGrease.dll
+C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\DomainContracts.dll
+C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\BusinessContracts.pdb
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Business.pdb
+C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\DataContracts.pdb
+C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\DataContracts.dll.config
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Data.pdb
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Data.dll.config
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Domain.pdb
@@ -206,6 +212,7 @@ C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Unity.Abstractions.pdb
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Unity.Container.pdb
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Antlr3.Runtime.pdb
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\DomainContracts.pdb
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\es\System.Net.Http.Formatting.resources.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\es\System.Web.Helpers.resources.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\bin\es\System.Web.Http.resources.dll

@@ -794,8 +794,26 @@
           "lib/net45/Unity.WebApi.dll": {}
         }
       },
+      "BusinessContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Data": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessContracts.dll": {}
+        }
+      },
       "Data/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "DataContracts": "1.0.0",
+          "Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Data.dll": {}
         },
@@ -803,14 +821,40 @@
           "bin/placeholder/Data.dll": {}
         }
       },
+      "DataContracts/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataContracts.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "AutoMapper": "9.0.0",
+          "DomainContracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "DomainContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DomainContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainContracts.dll": {}
         }
       }
     }
@@ -3613,20 +3657,36 @@
         "unity.webapi.nuspec"
       ]
     },
+    "BusinessContracts/1.0.0": {
+      "type": "project",
+      "path": "../BusinessContracts/BusinessContracts.csproj",
+      "msbuildProject": "../BusinessContracts/BusinessContracts.csproj"
+    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Data/Data.csproj",
       "msbuildProject": "../Data/Data.csproj"
     },
+    "DataContracts/1.0.0": {
+      "type": "project",
+      "path": "../DataContracts/DataContracts.csproj",
+      "msbuildProject": "../DataContracts/DataContracts.csproj"
+    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "DomainContracts/1.0.0": {
+      "type": "project",
+      "path": "../DomainContracts/DomainContracts.csproj",
+      "msbuildProject": "../DomainContracts/DomainContracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "AutoMapper >= 9.0.0",
+      "BusinessContracts >= 1.0.0",
       "Data >= 1.0.0",
       "Domain >= 1.0.0",
       "Microsoft.AspNet.WebApi.Client >= 5.2.7",
@@ -3664,6 +3724,9 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+            "C:\\Users\\DELL\\source\\repos\\UowAPI\\BusinessContracts\\BusinessContracts.csproj": {
+              "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\BusinessContracts\\BusinessContracts.csproj"
+            },
             "C:\\Users\\DELL\\source\\repos\\UowAPI\\Data\\Data.csproj": {
               "projectPath": "C:\\Users\\DELL\\source\\repos\\UowAPI\\Data\\Data.csproj"
             },

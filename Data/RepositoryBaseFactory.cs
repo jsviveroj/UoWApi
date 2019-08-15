@@ -1,11 +1,7 @@
-﻿using Data.Contracts;
+﻿using DataContracts.Contracts;
+using DataContracts.Infrastructure;
 using Unity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Data.Infrastructure.Contract;
+
 
 namespace Data
 {
@@ -17,7 +13,7 @@ namespace Data
             _container = container;
         }
 
-        public T GetDataRepository<T>() where T : IBaseRepository<T>
+        T IRepositoryBaseFactory.GetDataRepository<T>()
         {
             return _container.Resolve<T>();
         }

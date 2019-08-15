@@ -1,9 +1,9 @@
 using Business;
-using Business.Interface;
+using BusinessContracts.Contracts;
 using Data;
-using Data.Contracts;
 using Data.Infrastructure;
-using Data.Infrastructure.Contract;
+using DataContracts.Contracts;
+using DataContracts.Infrastructure;
 using System.Web.Http;
 using Unity;
 using Unity.WebApi;

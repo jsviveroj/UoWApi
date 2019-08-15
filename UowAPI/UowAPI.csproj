@@ -238,7 +238,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
     <Folder Include="Views\Repo\" />
   </ItemGroup>
   <ItemGroup>
@@ -271,9 +270,17 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BusinessContracts\BusinessContracts.csproj">
+      <Project>{9102aed0-8cd5-4f2d-a24c-493d7322cf77}</Project>
+      <Name>BusinessContracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Business\Business.csproj">
       <Project>{5798a1e4-ef2f-45c4-8c5d-2f7d88f2ef32}</Project>
       <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataContracts\DataContracts.csproj">
+      <Project>{3332DE29-81B4-4C67-BA8A-79541B49826C}</Project>
+      <Name>DataContracts</Name>
     </ProjectReference>
     <ProjectReference Include="..\Data\Data.csproj">
       <Project>{90ef8787-f2ef-45c3-8b2d-d9deba960694}</Project>

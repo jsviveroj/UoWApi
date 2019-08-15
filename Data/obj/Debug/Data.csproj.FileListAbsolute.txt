@@ -13,6 +13,8 @@ C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Data\obj\Debug\Data.csprojAssemblyReferenc
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Data.dll.config
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Data.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Data.pdb
+C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\DataContracts.dll
+C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Domain.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\EntityFramework.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Newtonsoft.Json.dll
@@ -22,6 +24,10 @@ C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\System.Web.Http.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Unity.Abstractions.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Unity.Container.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Unity.WebApi.dll
+C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\DomainContracts.dll
+C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\DataContracts.pdb
+C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\DataContracts.dll.config
+C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Domain.pdb
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\EntityFramework.xml
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Newtonsoft.Json.xml
@@ -30,6 +36,7 @@ C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\System.Runtime.CompilerServices
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\System.Web.Http.xml
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Unity.Abstractions.pdb
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\Unity.Container.pdb
+C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\DomainContracts.pdb
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\es\System.Net.Http.Formatting.resources.dll
 C:\Users\DELL\source\repos\UowAPI\Data\bin\Debug\es\System.Web.Http.resources.dll
 C:\Users\DELL\source\repos\UowAPI\Data\obj\Debug\Data.csprojAssemblyReference.cache

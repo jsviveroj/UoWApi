@@ -1,7 +1,6 @@
-﻿using Business;
-using Business.Interface;
-using System.Web.Http;
-using Domain;
+﻿using System.Web.Http;
+using BusinessContracts.Contracts;
+using Domain.Models;
 
 namespace UowAPI.Controllers
 {

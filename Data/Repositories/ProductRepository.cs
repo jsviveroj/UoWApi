@@ -1,7 +1,7 @@
-﻿using Data.Contracts;
-using Data.Entities;
-using Data.Infrastructure;
-using Data.Infrastructure.Contract;
+﻿using Data.Infrastructure;
+using DataContracts.Contracts;
+using DataContracts.Infrastructure;
+using Domain;
 
 namespace Data.Repositories
 {

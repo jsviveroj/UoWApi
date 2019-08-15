@@ -1,16 +1,16 @@
 ﻿using Data.Entities;
-using Data.Infrastructure.Contract;
+using DataContracts.Infrastructure;
 using System.Data.Entity;
 
 namespace Data.Infrastructure
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private readonly UowTestEntities _dbContext;
+        private readonly Context _dbContext;
 
         public UnitOfWork()
         {
-            _dbContext = new UowTestEntities();
+            _dbContext = new Context();
         }
 
         public DbContext Db
