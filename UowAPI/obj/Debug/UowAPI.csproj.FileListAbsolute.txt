@@ -104,7 +104,6 @@ C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\es\System.Web.WebPages.resource
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\es\System.Web.WebPages.Razor.resources.dll
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\obj\Debug\UowAPI.csprojAssemblyReference.cache
-C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\obj\Debug\UowAPI.csproj.CoreCompileInputs.cache
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\obj\Debug\UowAPI.csproj.CopyComplete
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\obj\Debug\UowAPI.dll
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\obj\Debug\UowAPI.pdb
@@ -228,3 +227,13 @@ C:\Users\DELL\source\repos\UowAPI\UowAPI\obj\Debug\UowAPI.csproj.CoreCompileInpu
 C:\Users\DELL\source\repos\UowAPI\UowAPI\obj\Debug\UowAPI.csproj.CopyComplete
 C:\Users\DELL\source\repos\UowAPI\UowAPI\obj\Debug\UowAPI.dll
 C:\Users\DELL\source\repos\UowAPI\UowAPI\obj\Debug\UowAPI.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\AutoMapper.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\BusinessContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\DataContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\DomainContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\BusinessContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\DataContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\DataContracts.dll.config
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\AutoMapper.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\AutoMapper.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\UowAPI\bin\DomainContracts.pdb

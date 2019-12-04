@@ -14,3 +14,18 @@ C:\Users\DELL\source\repos\UowAPI\DataContracts\obj\Debug\DataContracts.csproj.C
 C:\Users\DELL\source\repos\UowAPI\DataContracts\obj\Debug\DataContracts.csproj.CopyComplete
 C:\Users\DELL\source\repos\UowAPI\DataContracts\obj\Debug\DataContracts.dll
 C:\Users\DELL\source\repos\UowAPI\DataContracts\obj\Debug\DataContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\DataContracts.dll.config
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\DataContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\DataContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\Domain.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\DomainContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\EntityFramework.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\DomainContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\Domain.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\EntityFramework.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\obj\Debug\DataContracts.csprojAssemblyReference.cache
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\obj\Debug\DataContracts.csproj.CopyComplete
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\obj\Debug\DataContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DataContracts\obj\Debug\DataContracts.pdb

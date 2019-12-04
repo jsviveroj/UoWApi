@@ -6,3 +6,11 @@ C:\Users\DELL\source\repos\UowAPI\DomainContracts\obj\Debug\netstandard2.0\Domai
 C:\Users\DELL\source\repos\UowAPI\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.AssemblyInfo.cs
 C:\Users\DELL\source\repos\UowAPI\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.dll
 C:\Users\DELL\source\repos\UowAPI\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\bin\Debug\netstandard2.0\DomainContracts.deps.json
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\bin\Debug\netstandard2.0\DomainContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\bin\Debug\netstandard2.0\DomainContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.csprojAssemblyReference.cache
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.AssemblyInfoInputs.cache
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.AssemblyInfo.cs
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\DomainContracts\obj\Debug\netstandard2.0\DomainContracts.pdb

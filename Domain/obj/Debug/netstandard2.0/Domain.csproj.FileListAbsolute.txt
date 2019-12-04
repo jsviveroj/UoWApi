@@ -1,7 +1,6 @@
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\Domain.deps.json
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\Domain.dll
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\Domain.pdb
-C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
 C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\obj\Debug\netstandard2.0\Domain.dll
@@ -22,3 +21,12 @@ C:\Users\DELL\source\repos\UowAPI\Domain\obj\Debug\netstandard2.0\Domain.Assembl
 C:\Users\DELL\source\repos\UowAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
 C:\Users\DELL\source\repos\UowAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Users\DELL\source\repos\UowAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\DomainContracts.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\DomainContracts.pdb
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\jsvj9\Desktop\UoW Api\UoWApi\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
